@@ -12,4 +12,4 @@ C:\Users\vladi\IdeaProjects\FileDependencies\Newfolder
 Пример: require ‘newFile’  
 Неправильное указание зависимости: require 'newFile'
 
-
+При любых ошибка работы программы, будет производиться завершение работы и вывод сообщения об ошибке.
